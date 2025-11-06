@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: jok3rboyy/VVD-Wageningen # CONTROLEER DIT! Is dit de juiste repo?
+  repo: Twinpixel-nl/VVD-Wageningen # CONTROLEER DIT! Is dit de juiste repo?
   branch: main
 
 # Zorg dat deze paden kloppen t.o.v. de root van je repository!
